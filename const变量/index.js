@@ -10,7 +10,8 @@ console.log(TEAM);
 // TEAM.reverse();
 // console.log(TEAM);
 
-TEAM1=TEAM.slice(1,3).reverse();
+// TEAM1=TEAM.slice(-2,-1);//返回倒数第二个元素
+TEAM1=TEAM.slice(-1);//返回最后一个元素
 console.log(TEAM1);
 
 TEAM.push('gffgd');
