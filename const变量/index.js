@@ -1,4 +1,4 @@
-const SCHOOl="shangguigu"
+// const SCHOOl="shangguigu"
 // 1.一定要赋值
 // 2.一般要大写（潜规则）,当然大写也不报错,但是一般要和let区分开是用大写·
 // 3.常量的值不可修改
